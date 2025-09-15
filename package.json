@@ -1,0 +1,24 @@
+{
+  "name": "clean-air-safe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexisvanaut/Clean-Air-Safe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexisvanaut/Clean-Air-Safe/issues"
+  },
+  "homepage": "https://github.com/Alexisvanaut/Clean-Air-Safe#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.2",
+    "handlebars": "^4.7.8"
+  }
+}
